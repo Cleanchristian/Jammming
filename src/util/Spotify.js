@@ -1,5 +1,5 @@
 const clientID = 'e081394ceb2f4004b7350966e57995b0'
-const redirectURI = "http://localhost:3000/"
+const redirectURI = "https://elegant-hugle-2c6501.netlify.app/"
 
 
 let accessToken;
